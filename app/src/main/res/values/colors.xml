@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- Background color used in activity main and activity catalog -->
+    <color name="white_background">#ffffff</color>
+    <color name="black_background">#060606</color>
+    <color name="red_background">#f10000</color>
+    <color name="blue_background">#3b93ff</color>
+
+    <!--drawable => list_item_background.xml colors-->
+    <color name="gradientStartColor">#668aa9</color>
+    <color name="gradientCenterColor">#ff86a9</color>
+    <color name="gradientEndColor">#e9cc58</color>
+
+    <!-- Background color used in activity editor -->
+    <color name="plus_minus">#fff</color>
+</resources>

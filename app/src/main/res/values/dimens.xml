@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- height, width and margins of image and text on activity_main -->
+    <dimen name="android_layout_margin">150dp</dimen>
+
+    <!-- height of image and text layout margin bottom in activity_home -->
+    <dimen name="home_image_height">300dp</dimen>
+
+    <!--activity_editor.xml dimensions-->
+    <dimen name="editor_padding">16dp</dimen>
+    <dimen name="overiview_margin_top">16dp</dimen>
+
+    <!--activity_catalog.xml dimensions-->
+    <dimen name="textview_padding">16dp</dimen>
+    <dimen name="floating_margin">16dp</dimen>
+    <dimen name="empty_view_textview_padding_top">8dp</dimen>
+
+    <!--activity_editor.xml dimensions-->
+    <dimen name="spinner_layout_height">50dp</dimen>
+    <dimen name="spinner_padding_right">15dp</dimen>
+    <dimen name="text_size_overview">20sp</dimen>
+    <dimen name="supplier_text_size">15sp</dimen>
+    <dimen name="layout_margins">30dp</dimen>
+    <dimen name="spinner_height">50dp</dimen>
+
+    <!--list_item.xml dimensions-->
+    <dimen name="list_item_padding">16dp</dimen>
+    <dimen name="list_item_price_left_margin">8dp</dimen>
+    <dimen name="list_item_quantity_left_margin">8dp</dimen>
+    <dimen name="sale_button_height">40dp</dimen>
+    <dimen name="sale_button_margin_top">8dp</dimen>
+    <dimen name="call_button_margin_left">20dp</dimen>
+    <dimen name="android_button_list_margin">130dp</dimen>
+    <dimen name="android_view">2dp</dimen>
+    <dimen name="edit_margin">270dp</dimen>
+    <dimen name="floating_button_margin">60dp</dimen>
+    <dimen name="layout_marginleft">150dp</dimen>
+    <dimen name="layout_top">32dp</dimen>
+</resources>

@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Inventory app Stage 2</string>
+
+    <!-- Content description for Image in the activity_main-->
+    <string name="content_description">Image View for splash screen</string>
+
+    <!--CatalogActivity.java strings-->
+    <string name="all_games_deleted">All Games deleted</string>
+    <string name="delete_all_games">Delete All Games</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="save">save</string>
+    <string name="click_here">Click here</string>
+    <string name="new_game">New Book</string>
+    <string name="sale">Sale</string>
+    <string name="insert_dummy_data">Insert Dummy Data</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="supplier_name">Supplier Name</string>
+    <string name="supplier_contact">Supplier Contact</string>
+
+    <string name="error_saving_game">Error saving game</string>
+    <string name="error_while_deleting_games">Error updating game</string>
+    <string name="game_updated">Game updated</string>
+    <string name="delete_msg">Delete this Game ?</string>
+
+    <string name="discard_changes_dialog">Discard your changes and quit editing ?</string>
+
+    <string name="delete_error_message">Error with deleting Game</string>
+    <string name="delete_message">Game deleted</string>
+    <string name="no_game_to_display">No Video Game to display!</string>
+    <string name="quantity_updated">Quantity Updated</string>
+    <string name="all_units_deleted_msg">No more units left to remove</string>
+    <string name="partial_input_message">Cannot save game due to partial details</string>
+    <string name="quantity">Quantity</string>
+
+    <!-- Title for the EditorActivity [CHAR LIMIT=20] -->
+    <string name="edit_games">Edit Games</string>
+
+    <string name="game_detail_activity_label">Game Details</string>
+
+    <!--Strings for the activity_editor.xml -->
+    <string name="label_product_overview"> Video Game Overview</string>
+    <string name="edit_product_name">Game Name</string>
+    <string name="label_supplier_overview">Supplier Overview</string>
+    <string name="edit_supplier_name">Supplier Name</string>
+    <string name="edit_price">Price</string>
+    <string name="edit_quantity">Quantity</string>
+    <string name="edit_supplier_contact">Supplier Contact</string>
+
+
+    <!--Strings for the CatalogActivity-->
+    <string name="the_games_table_contains">The games table contains</string>
+    <string name="empty_view_text_view">Get started by adding a Game</string>
+
+    <!--Strings for the EditorActivity-->
+    <string name="error_saving_games">Error with saving games</string>
+    <string name="game_saved">Game saved with row id:</string>
+
+    <!--All the input fields are required to be populated by user in activity_editor.xml-->
+    <string name="unsaved_changes">Unsaved Changes</string>
+
+    <!--Games Inventory -->
+    <string name="games_inventory">Games Inventory</string>
+    <string name="add_product">Add a New Game</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_price">Price</string>
+    <string name="product_quantity">Quantity</string>
+    <string name="product_supplier_name">Supplier Name</string>
+    <string name="product_supplier_phone_number">Supplier Phone Number</string>
+
+    <!--list_item.xml strings-->
+    <string name="label_price">Price:</string>
+    <string name="label_quantity">Quantity:</string>
+    <string name="price_for_single_item">(Price for single item)</string>
+    <string name="button_sale">Sale</string>
+
+    <!--menu_editor.xml strings-->
+    <string name="action_save">Save</string>
+    <string name="action_contact_supplier">Contact Supplier</string>
+    <string name="action_delete">Delete</string>
+
+    <!--EditorActivity.java strings-->
+    <string name="add_a_game">Add a Game</string>
+    <string name="edit_game">Edit Game</string>
+    <string name="insert_game_error">Error while saving Game</string>
+    <string name="insert_game_successful">Game Saved</string>
+    <string name="editor_update_game_error">Error with updating Game</string>
+    <string name="editor_update_game_successful">Game Updated</string>
+    <string name="error_deleting_game">Error while deleting Game</string>
+    <string name="game_deleted">Game Deleted</string>
+    <string name="discard_changes_and_quit_editing">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep editing</string>
+    <string name="delete_game">Delete this Game?</string>
+    <string name="delete_dialog_msg">Delete this Product?</string>
+    <string name="game_price_icon">Game price icon</string>
+    <string name="game_quantity_icon">Game quantity icon</string>
+    <string name="game_supplier_icon">Game supplier icon</string>
+    <string name="game_supplier_contact_icon">Game supplier contact icon</string>
+    <string name="no_contact_to_show">No contact to show</string>
+    <string name="tel">tel:</string>
+    <string name="call">Call</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="number_edit">10</string>
+    <string name="edit">Edit</string>
+    <string name="out_of_stock">This Game is out of stock</string>
+</resources>
